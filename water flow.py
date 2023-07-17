@@ -1,5 +1,3 @@
-# Program to read flow sensor and display flow rate in Serial Monitor.
-# Source: Electrocredible.com, Language: MicroPython
 from machine import Pin
 import time
 
